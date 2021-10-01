@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## ~~ Welcome to GitHub Pages ~~
 
-You can use the [editor on GitHub](https://github.com/chusheng0505/chusheng0505.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Project_1 : [Image-Captions-and-Generating-Images](https://github.com/chusheng0505/Image-Captions-and-Generating-Images) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

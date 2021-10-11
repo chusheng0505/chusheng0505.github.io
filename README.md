@@ -10,7 +10,7 @@
 
 **Jobs** : Data Analyst<br>
 **Languages** : Python / SAS / VBA<br>
-**Fields** : Theorical Calculations / WebScrapping / Statistical Analaysis / Statistical Modeling / Machines Learning / Deep Learning ( Images Pocessing )<br>
+**Fields** : Theorical Calculations / WebScrapping / Statistical Analaysis / Statistical Modeling / ML / DL ( Images Pocessing )<br>
 **Framework** : Tensorflow / Pytorch / PySpark<br>
 **Working Experiences** : 2 years <br>
 

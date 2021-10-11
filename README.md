@@ -41,6 +41,7 @@ Framework : Tensorflow / Pytorch / PySpark<br>
 ## Project 4 : [Forecast-Modeling-and-Predictions](https://github.com/chusheng0505/Forecast-Modeling-and-Predictions) <br>
 **aims** : To predict the demand in future.<br>
 **model used** : Time Series Model ,eg : ARIMA / SARIMA / GARCH and etc <br>
+**statistical test** : Augmented Dickey-Fuller Test ; Durbin Watson Value ; Model AIC <br>
 **inputs** : numerical historical data <br>
 **output** : numerical predictions data<br>
 

@@ -2,7 +2,7 @@
 -----
 
 ## Introductions:<br>
-Name : Tan Chu Sheng <br>
+Name : Chu Sheng,Tan <br>
 Educations : <br>
 1. (Bachelor) Taiwan, National ChungCheng University (Department of Physics)<br>
 2. (Master) Taiwan, National ChengChi University (Department of Stastitics)<br>

@@ -2,16 +2,17 @@
 -----
 
 ## Introductions:<br>
-Name : Chu Sheng,Tan <br>
-Educations : <br>
+**Name** : Chu Sheng,Tan <br>
+**Educations** : <br>
 1. (Bachelor) Taiwan, National ChungCheng University (Department of Physics)<br>
 2. (Master) Taiwan, National ChengChi University (Department of Stastitics)<br>
 3. Taiwan, AI Academy 台灣人工智慧學校 九期學員 <br>
 
-Jobs : Data Analyst<br>
-Programming Languages : Python / SAS / VBA<br>
-Fields : Theorical Calculations / WebScrapping / Statistical Analaysis / Statistical Modeling / Machines Learning / Deep Learning ( Images Pocessing )<br>
-Framework : Tensorflow / Pytorch / PySpark<br>
+**Jobs** : Data Analyst<br>
+**Languages** : Python / SAS / VBA<br>
+**Fields** : Theorical Calculations / WebScrapping / Statistical Analaysis / Statistical Modeling / Machines Learning / Deep Learning ( Images Pocessing )<br>
+**Framework** : Tensorflow / Pytorch / PySpark<br>
+**Working Experiences** : 2 years <br>
 
 ------
 

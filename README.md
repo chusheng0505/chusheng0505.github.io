@@ -47,7 +47,7 @@
 **output** : numerical predictions data<br>
 
 
-## Project 5 : [(In Processing) Object Detections and Text Recognitions]() <br>
+## Project 5 : [(In Processing) Object Detections and Text Recognitions](https://github.com/chusheng0505/Object-Detections-and-Text-Recognitions) <br>
 **aims** : To get locations of target and detect the text on it.<br>
 **model used** : YoloV3 ; CNN <br>
 **inputs** : images <br>

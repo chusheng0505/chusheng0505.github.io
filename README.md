@@ -13,6 +13,7 @@
 **Fields** : Theorical Calculations / WebScrapping / Statistical Analaysis / Statistical Modeling / ML / DL ( Images Pocessing )<br>
 **Framework** : Tensorflow / Pytorch / PySpark<br>
 **Working Experiences** : 2 years <br>
+**Email** : noble1993chusheng@hotmail.com <br>
 
 ------
 

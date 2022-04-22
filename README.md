@@ -35,7 +35,7 @@
 **aims** : Try to search those relatively images through descriptions.<br>
 **model used** : pseudo siamese network(pretrained Bert + CNN);facebook's Hubert ; CP-GAN <br>
 **inputs** : sentences or speech(in .wav format)<br>
-**output** : images stastified conditiones<br>
+**output** : images stastified conditions<br>
 
 
 ## Project 3 : [Tesseract-OCR-and-Automated-Files-Processing](https://github.com/chusheng0505/Tesseract-OCR-and-Automated-Files-Processing) <br>
@@ -54,7 +54,7 @@
 
 
 ## Project 5 : [Object Detections and Text Recognitions](https://github.com/chusheng0505/Object-Detections-and-Text-Recognitions) <br>
-**aims** : To get locations of target and detect the text on it.<br>
+**aims** : To detect the locations of target(including texts and numbers) and recognize the text on it.<br>
 **model used** : YoloV3 ; CNN <br>
 **inputs** : images <br>
 **output** : results of text <br>

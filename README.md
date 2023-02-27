@@ -14,7 +14,7 @@
 1.Theorical Calculations  of Mathematics <br> 
 2.WebScrapping <br> 
 3.Statistical Analaysis and Modeling <br>
-4.Machine Learning and Deep Learning <br>
+4.Computer Vision with Machine Learning and Deep Learning <br>
 **Framework** : Tensorflow / Pytorch / PySpark / Dask <br>
 **Working Experiences** : <br>
 1.(Data Analyst and Engineering) Little King Ind. Co., Ltd. (2019/08 - 2022/04 , 2 years and 9 months) <br>

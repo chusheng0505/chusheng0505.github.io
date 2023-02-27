@@ -9,7 +9,7 @@
 3. Taiwan, AI Academy 台灣人工智慧學校 九期學員 <br>
 
 **Jobs** : Data Analyst and Engineering <br>
-**Languages** : Python / SAS / VBA<br>
+**Languages** : Python <br>
 **Fields** : <br>
 1.Theorical Calculations  of Mathematics <br> 
 2.WebScrapping <br> 
@@ -17,7 +17,8 @@
 4.Machine Learning and Deep Learning <br>
 **Framework** : Tensorflow / Pytorch / PySpark / Dask <br>
 **Working Experiences** : <br>
-1.Little King Ind. Co., Ltd. (2019/08 - 2022/04 , 2 years and 9 months) <br>
+1.(Data Analyst and Engineering) Little King Ind. Co., Ltd. (2019/08 - 2022/04 , 2 years and 9 months) <br>
+2.(AI & Software Engineer) Quanta Computer lnc.       (2022/12 -         ) <br>
 **Email** : noble1993chusheng@hotmail.com <br>
 
 ------

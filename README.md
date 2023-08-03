@@ -8,13 +8,14 @@
 2. (Master) Taiwan, National ChengChi University (Department of Stastitics)<br>
 3. Taiwan, AI Academy 台灣人工智慧學校 九期學員 <br>
 
-**Jobs** : Data Analyst and Engineering <br>
+**Current Jobs** : AI & Software Engineer <br>
 **Languages** : Python <br>
 **Fields** : <br>
 1.Theorical Calculations  of Mathematics <br> 
 2.WebScrapping <br> 
 3.Statistical Analaysis and Modeling <br>
 4.Computer Vision with Machine Learning and Deep Learning <br>
+5.NLP model <br>
 **Framework** : Tensorflow / Pytorch / PySpark / Dask <br>
 **Working Experiences** : <br>
 1.(Data Analyst and Engineering) Little King Ind. Co., Ltd. (2019/08 - 2022/04 , 2 years and 9 months) <br>
@@ -59,6 +60,18 @@
 **model used** : YoloV3 ; CNN <br>
 **inputs** : images <br>
 **output** : results of text <br>
+
+## Project 6 : [Paper Research]<br>
+**Classifications** : <br>
+1. [DarkNet-53](https://github.com/chusheng0505/DarkNet53) <br>
+2. [SE-ResNet50](https://github.com/chusheng0505/SE-ResNet50) <br>
+
+**Segmentations** : <br>
+1. [Bi_Direc_ConvLSTM](https://github.com/chusheng0505/Bi_Direc_ConvLSTM) <br>
+2. [TransUnet](https://github.com/chusheng0505/TransUnet) <br>
+3. [RefineNet](https://github.com/chusheng0505/RefineNet) <br>
+4. [MultiResUnet](https://github.com/chusheng0505/MultiResUnet) <br>
+
 
 ------
 
